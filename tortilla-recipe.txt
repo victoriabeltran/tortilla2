@@ -13,3 +13,6 @@ Preparación de la tortilla de patatas
 
 variante con queso:
 esta es mi variante con queso
+
+variante con chorizo:
+esta es mi variante con chorizo
